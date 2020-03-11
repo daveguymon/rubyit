@@ -11,6 +11,8 @@ gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'pg'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'acts_as_votable', '~> 0.12.1'
+gem 'simple_form'
+gem 'record_tag_helper', '~> 1.0'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
