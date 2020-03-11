@@ -9,6 +9,8 @@ gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 # Use postgres as the database for Active Record
 gem 'pg'
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+gem 'acts_as_votable', '~> 0.12.1'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
