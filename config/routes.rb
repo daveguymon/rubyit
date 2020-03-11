@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
-  root to: "links#index"
-  
+  root "links#index"
+
   resources :comments
   devise_for :users
   resources :links do
